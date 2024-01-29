@@ -36,7 +36,6 @@ Six activities were performed
 ## Analysis Scripts
 Notebook | Description
 -------- | ------
-[EDA]   | Exploratory Data Analysis
 [UCI-Visualization] | Raw sensor data visualization
 [UCI-CNN-raw-data]   | Convolutional neural network(CNN)
 [UCI-KNN-features-data]   | Convolutional neural network(CNN)
